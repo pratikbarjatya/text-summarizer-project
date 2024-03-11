@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: text-summarizer-project
+Version: 0.0.0
+Summary: This a project that can sammerize news.
+Home-page: https://github.com/pratikbarjatya/text-summerizer-project
+Author: pratikbarjatya
+Author-email: pratikbarjatya@gmail.com
+Project-URL: Bug Tracker, https://github.com/pratikbarjatya/text-summerizer-project/issues
+License-File: LICENSE
